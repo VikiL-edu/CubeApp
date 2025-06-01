@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Air",
+    "texture": ""
+  },
+  {
+    "id": 1,
+    "name": "Dirt",
+    "texture": "./resources/dirt.png"
+  },
+  {
+    "id": 2,
+    "name": "Grass",
+    "texture": "./resources/grass.png"
+  }
+]
